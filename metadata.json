@@ -1,0 +1,5 @@
+{
+  "name": "Yayoi Passbook Scanner",
+  "description": "Extracts bank passbook transactions from photos and converts them to Yayoi Accounting compatible CSV.",
+  "requestFramePermissions": []
+}
